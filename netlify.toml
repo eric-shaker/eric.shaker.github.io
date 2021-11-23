@@ -1,4 +1,5 @@
 [build]
+baseurl = "ericshaker.netlify.app"
 command = 'hugo'
 publish = 'public'
 [build.environment]
